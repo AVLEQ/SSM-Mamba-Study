@@ -5,7 +5,7 @@ This repository documents my research and implementation journey into **State Sp
 ---
 
 ##  Quick Links
-* **[Interactive Research Notebook (Week 1)](https://colab.research.google.com/drive/1WYiMhxXD_9q0G3BFkMeZFPzZ2RTqsFaO?usp=sharing)** *
+* **[Interactive Research Notebook (Week 1)](https://colab.research.google.com/drive/1WYiMhxXD_9q0G3BFkMeZFPzZ2RTqsFaO?usp=sharing)** 
 * **Seminal Paper:** [Mamba: Linear-Time Sequence Modeling](https://arxiv.org/abs/2312.00752)
 
 ---
