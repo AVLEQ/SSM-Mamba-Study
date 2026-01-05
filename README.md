@@ -52,7 +52,3 @@ Explored the transition from **S4 (Time-Invariant)** to **Mamba (Selective)**.
 * **Mamba Repository:** [SSMphony AI Voice Generation](https://github.com/SSM11011/SSMphony-AI-voice-generation-using-Mamba-SSMs)
 * **Video Deep Dive:** [Mamba: Linear-Time Sequence Modeling](https://www.youtube.com/watch?v=9dSkvxS2EB0)
 
----
-
-## 🔭 Next Steps (Week 2)
-Moving from theoretical visualization to a **Base Level Implementation** of the S4/Mamba layer in JAX/PyTorch.
