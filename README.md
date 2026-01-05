@@ -10,4 +10,4 @@ The goal of this week is to understand why we are moving away from Transformers 
   * $y(t) = Ch(t)$ (How we get an output)
 
 ### Practical Work:
-* Visualized **Discretization** using Python to see how the step size ($\Delta$) affects signal quality.# SSM-Mamba-Study
+* Visualized **Discretization** using Python to see how the step size ($\Delta$) affects signal quality.
