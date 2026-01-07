@@ -1,7 +1,3 @@
-To update your GitHub **README.md** with the work completed for Week 2 and the Midterm, use the following text. I have removed all emojis and adjusted the phrasing to "I" to reflect your personal implementation work.
-
----
-
 # SSM-Mamba-Study: From Attention to Selective State Spaces
 
 This repository documents my research and implementation journey into State Space Models (SSM) and the Mamba architecture. The goal is to bridge the gap between traditional Transformers and the next generation of linear-time sequence models.
